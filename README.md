@@ -25,12 +25,12 @@ Your task is to rate the translation on one metric.
 Please make sure you read and understand these instructions carefully. Please keep this document open while reviewing, and refer to it as needed.
 
 Evaluation Criteria:
-Understandable: Is the translation understandable given the original text?
-Natural: Does the translation seem to be something that a person would naturally say?
-Maintains Context: Does the translation serve as a valid continuation of the preceding conversation?
-Interesting: Is the translation dull or interesting?
-Coherence: Is the translation understandable consistent in same word?
-Overall Quality: Given your answers above, what is your overall impression of the quality of this translation?
+- Understandable: Is the translation understandable given the original text?
+- Natural: Does the translation seem to be something that a person would naturally say?
+- Maintains Context: Does the translation serve as a valid continuation of the preceding conversation?
+- Interesting: Is the translation dull or interesting?
+- Coherence: Is the translation understandable consistent in same word?
+- Overall Quality: Given your answers above, what is your overall impression of the quality of this translation?
 
 Evaluation Steps:
 1. Read the original text carefully and identify the main topic and key points.
