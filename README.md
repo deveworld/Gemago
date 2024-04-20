@@ -9,10 +9,10 @@ A lightweight English-and-Korean bidirectional translation model based on Gemma.
 We were inspired by [jwj7140's Gugugo](https://github.com/jwj7140/Gugugo).
 
 ## Versions
-| Model Name | Version | Parameters | Published |
-| --- | :---: | :---: | ---: | 
-| [Gemago-2b](https://huggingface.co/DevWorld/Gemago-2b) | Alpha | 2B | ✅ |
-| [Gemago-7b](https://huggingface.co/DevWorld/Gemago-7b) | - | 7B | ❌ |
+| Model Name | Version | Parameters | Published | Colab |
+| --- | :---: | :---: | :---: | ---: |
+| [Gemago-2b](https://huggingface.co/DevWorld/Gemago-2b) | Alpha | 2B | ✅ | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deveworld/Gemago/blob/main/Gemago_2b_Infer.ipynb) |
+| [Gemago-7b](https://huggingface.co/DevWorld/Gemago-7b) | - | 7B | ❌ | TBD |
 
 ## Evaluation
 We used GPT-4 for auto evaluation.
