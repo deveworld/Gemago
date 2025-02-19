@@ -1,5 +1,5 @@
-## Update Logs
-- You can all update logs at [Blog(Korean)](https://blog.worldsw.dev/tag/gemago/)
+## Archived
+- This version is no longer supported or maintained.
 
 ---
 
